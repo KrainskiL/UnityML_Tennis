@@ -3,7 +3,7 @@
 
 It's the third project for the Udacity Deep Reinforcement Learning Nanodegree. The goal is to teach both agents to play tennis (so basically, to bounce ball on opponents side until it hits the floor or exits a tennis court). To do that [DDPG](https://arxiv.org/abs/1509.02971): Deep Deterministic Policy Gradient for Multi-Agent scenario is used
 
-![Trained DDPG agents](./img/Tennis.gif)
+![Trained DDPG agents](https://github.com/KrainskiL/UnityML_Tennis/blob/master/img/Tennis.gif?raw=true)
 
 ## Environment description
 
@@ -41,7 +41,7 @@ Path to the executable has to be provided to `UnityEnvironment` function in `Ten
 
 For example on 64-bit Windows:
 ```python
-env = UnityEnvironment(file_name="./Reacher_Windows_x86_64/Reacher.exe")
+env = UnityEnvironment(file_name="./Tennis_Windows_x86_64/Tennis.exe")
 ```
 
 3. Run the `Tennis.ipynb` notebook using the `drlnd` kernel to train the DDPG agent.
