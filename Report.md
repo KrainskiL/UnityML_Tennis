@@ -71,7 +71,7 @@ Used architecture is the same as in [`ddpg-pendulum/DDPG.ipynb`](https://github.
 
 ## Plot of average score
 
-![Score](./img/Scores.png)
+![Score](https://github.com/KrainskiL/UnityML_Tennis/blob/master/img/Scores.PNG?raw=true)
 
 ```
 Episode 100	Average Score: 0.00	Max score: 0.00
